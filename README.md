@@ -11,7 +11,7 @@
 
 ## Contact Me
 
-- 📧 Email: [Adlaibridsonboyczuk@gmail.com]
+- 📧 Email: [19aibb@queensu.ca]
 - 🌐 [Personal Website](https://www.adlai.ca/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adlai-bridson-boyczuk/)
 
