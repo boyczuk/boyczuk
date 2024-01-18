@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Adlai Bridson-Boyczuk
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boyczuk&layout=compact)
 
