@@ -12,8 +12,8 @@
 ## Contact Me
 
 - 📧 Email: [Adlaibridsonboyczuk@gmail.com]
-- 🌐 [](https://www.adlai.ca/)
-- 💼 LinkedIn: [](https://www.linkedin.com/in/adlai-bridson-boyczuk/)
+- 🌐 [Personal Website](https://www.adlai.ca/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adlai-bridson-boyczuk/)
 
 Feel free to reach out and connect!
 
