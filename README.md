@@ -1,13 +1,9 @@
 # Hi, I'm Adlai Bridson-Boyczuk
 
-I am a Computing student at Queen's University with a focus on Artificial Intelligence.
-
-## About Me
-
-- 🎓 Currently in my 4th year of a Computing undergrad.
+- 🎓 I am a Computing student at Queen's University with a focus on Artificial Intelligence.
 - 🧠 Passionate about Artificial Intelligence and Machine Learning.
 
-## Current Classes
+## Current Courses
 
 - 📚 Evolutionary Optimization 
 - 📚 Reinforcement Learning
