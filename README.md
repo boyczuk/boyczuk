@@ -4,11 +4,8 @@ I am a Computing student at Queen's University with a focus on Artificial Intell
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in Computing.
+- 🎓 Currently in my 4th year of a Computing undergrad.
 - 🧠 Passionate about Artificial Intelligence and Machine Learning.
-- 🚀 Enthusiastic about learning and building new things.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boyczuk&layout=compact)
 
 ## Current Classes
 
@@ -23,3 +20,5 @@ I am a Computing student at Queen's University with a focus on Artificial Intell
 - 💼 LinkedIn: [](https://www.linkedin.com/in/adlai-bridson-boyczuk/)
 
 Feel free to reach out and connect!
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boyczuk&layout=compact)
