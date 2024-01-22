@@ -1,7 +1,6 @@
 # Hi, I'm Adlai Bridson-Boyczuk
 
-- 🎓 I am a Computing student at Queen's University with a focus on Artificial Intelligence.
-- 🧠 Passionate about Artificial Intelligence and Machine Learning.
+- 🎓 I am a Computing student at Queen's University with a focus on Artificial Intelligence and Machine Learning.
 
 ## Current Courses
 
