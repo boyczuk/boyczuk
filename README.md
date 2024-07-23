@@ -4,14 +4,14 @@
   <img src="https://github.com/boyczuk/boyczuk/assets/71486949/9ef8d0a6-f396-4db8-be8a-11c01ef75681" width="400" height="357">
 </p>
 
-  🎓 I am a Computing student at Queen's University with a focus on Artificial Intelligence and Machine Learning.<br>
+  🎓 I am a recent computer science graduate from Queen's University with a focus on Software Development and Machine Learning.<br>
   ⚡ I love developing and working with new technologies, reading, and training martial arts like Brazilian Jiu-Jitsu and Muay Thai!
 
-## Current Courses
+## Current Projects
 
-- 📚 Evolutionary Optimization 
-- 📚 Reinforcement Learning
-- 📚 Database Management Systems
+- 📚 Arcade-Rate
+- 📚 ProximaCommand escape room game
+- 📚 name TBD a ReactNative app
 
 ## Contact Me
 
