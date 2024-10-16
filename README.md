@@ -10,7 +10,7 @@
 ## Current Projects
 
 - 📚 Arcade-Rate
-- 📚 ProximaCommand escape room game
+- 📚 Skyrim-like Quest generator with GPT API
 - 📚 BlackMarket Unity2D crime strategy game
 
 ## Contact Me
