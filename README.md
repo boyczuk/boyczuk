@@ -9,8 +9,8 @@
 
 ## Current Projects
 
-- 📚 Arcade-Rate
-- 📚 Skyrim-like Quest generator with GPT API
+- 📚 Arcade-Rate (on pause)
+- 📚 Messaging app using Django/React
 - 📚 BlackMarket Unity2D crime strategy game
 
 ## Contact Me
