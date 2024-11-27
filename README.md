@@ -10,7 +10,7 @@
 ## Current Projects
 
 - 📚 Arcade-Rate (on pause)
-- 📚 Messaging app using Django/React
+- 📚 Learning Golang
 - 📚 BlackMarket Unity2D crime strategy game
 
 ## Contact Me
