@@ -9,8 +9,8 @@
 
 ## Current Projects
 
-- 📚 Arcade-Rate (on pause)
-- 📚 Learning Golang
+- 📚 Tangle (real-time messaging site) 
+- 📚 Relearning C++
 - 📚 BlackMarket Unity2D crime strategy game
 
 ## Contact Me
