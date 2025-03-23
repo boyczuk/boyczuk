@@ -10,7 +10,7 @@
 ## Current Projects
 
 - 📚 Tangle (real-time messaging site) 
-- 📚 Relearning C++
+- 📚 Working on becoming a Java menace
 - 📚 BlackMarket Unity2D crime strategy game
 
 ## Contact Me
